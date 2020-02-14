@@ -1,0 +1,31 @@
+body{
+	font-size: 15px;
+	background: #f4f4f4;
+}
+
+table tr th, table tr td{
+	font-size: 15px;
+	padding: 5px;
+	background: #f4f4f4;
+	border-bottom: 1px solid #808080;
+}
+
+.button-group{
+	width: 130px;
+	margin: auto;
+	text-align: center;
+}
+
+
+.whole-table{
+	background: #ffffff;
+	margin-top: 50px;
+}
+
+/* .table-head{
+	background: #d9d9d9;
+} */
+
+.form-item {
+	margin: 10px 1px;
+}
